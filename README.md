@@ -1,111 +1,110 @@
 # Ayush Sinha | @sinhaayush61426-ai
-> **Solo Software Architect • Creative Strategist • Privacy Advocate**
+> **Systems Architect • Privacy Advocate • Creative Strategist**
 > *Synthesizing Zero-Knowledge architectures with legacy system logic and immersive storytelling.*
 
-![Status](https://img.shields.io/badge/Current_Focus-MindVault_Production-2c2c2c?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Security](https://img.shields.io/badge/Protocol-Privacy_First-4a4a4a?style=flat-square)
-![System](https://img.shields.io/badge/Architecture-Legacy_%26_Modern-34495e?style=flat-square)
+![Status](https://img.shields.io/badge/Current_Focus-MindVault_Infrastructure-2c2c2c?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Security](https://img.shields.io/badge/Protocol-Privacy_by_Design-4a4a4a?style=flat-square)
+![Terminal](https://img.shields.io/badge/Environment-Linux_Terminal-34495e?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
-## 2026 Strategic Objectives
-* **Global Hackathon Pipeline:** Engineering a production-ready, security-audited deployment of **MindVault**. My objective is to redefine personal data sovereignty in journaling applications using zero-knowledge encryption.
-* **National VVM Candidacy:** Representing academic excellence at the National Level of **Vidyarthi Vigyan Manthan**, focusing on the rigorous logic of Indian scientific history and urban hydrology.
+## 2026 Strategic Roadmap
+* **Security Engineering:** Deploying **MindVault**, an emotional reflection engine utilizing client-side symmetric encryption to establish new benchmarks for personal data sovereignty.
+* **Academic Excellence:** Finalizing preparations for the **VVM National Level**, focusing on the administrative frameworks of Indian hydrology and historical scientific paradigms.
 
 ---
 
-## Technical Architecture and Active Repositories
+## Core System Architecture
 
-### [MindVault](https://github.com/sinhaayush61426-ai/mindvault) | *Privacy-Centric Journaling*
-* **Core Philosophy:** Designing for the "Right to Digital Solitude" through local-first data processing.
-* **Security Specs:** Implements a **Zero-Knowledge** framework. User authentication is managed via **Bcrypt** hashing, while entry data is encrypted client-side to ensure total data sovereignty.
-* **Backend Engineering:** Built on a **Python (Flask)** micro-framework with a **PostgreSQL** relational database for robust state management and high-concurrency handling.
-* **UI/UX Strategy:** Minimalist dark-themed interface designed specifically to reduce cognitive load and visual fatigue.
+### [MindVault](https://github.com/sinhaayush61426-ai/mindvault) | *Privacy-First Reflection Engine*
+* **Security Protocol:** Zero-Knowledge framework utilizing **Bcrypt** hashing and **Fernet (Cryptography 47.0)** local encryption.
+* **Logic Stack:** **React 18** / **Vite 5** decoupled frontend interfacing with a **Python 3.12 (Flask 3.0)** and **SQLite 3** persistence layer.
 
-### [Space Missions](https://github.com/sinhaayush61426-ai/space_missions) | *Data Integrity and Telemetry*
-* **Version Control Management:** Specialized in resolving complex Git upstream/downstream divergence within high-volume telemetry datasets.
-* **Data Logic:** Utilizing rigorous branching strategies and commit hygiene to maintain the historical accuracy of space mission documentation.
-
-### Game Development | *Cyberpunk-Themed PWA*
-* **Phase-Shift Engine:** Developing a mobile-responsive Progressive Web App featuring hardware-accelerated movement mechanics.
-* **Visual Stack:** Neon-accented aesthetics optimized via CSS3 variables and high-performance JavaScript loops.
+### [Space Missions](https://github.com/sinhaayush61426-ai/space_missions) | *Telemetry Data Integrity*
+* **Data Visualization:** Dynamic telemetry dashboards and mission-tracking engines engineered via **Chart.js 4**.
+* **Version Control:** Implementation of advanced **GitHub** workflows to resolve upstream/downstream divergence.
 
 ---
 
-## Technical Stack and Competencies
+## Comprehensive Technical Stack
 
-### Programming and Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Infrastructure & System Environment
+![Linux](https://img.shields.io/badge/Linux-Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.54.0-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8.0.10-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1.118-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-1.118-098677?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![DOS](https://img.shields.io/badge/DOS-6.22-000000?style=for-the-badge&logo=dosbox&logoColor=white)
 
-### Frameworks and Infrastructure
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Frontend & Immersive Engineering
+![React](https://img.shields.io/badge/React-19.2.5-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-6.0.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-r184-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.2.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES14+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-4.5.1-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-### Legacy Systems and DOS Logic
-![DOS](https://img.shields.io/badge/DOS-000000?style=flat-square&logo=dosbox&logoColor=white)
-* **Low-Level Operations:** Proficient in DOS command-line logic, batch scripting (.BAT), and FAT-based file system management.
-* **Efficiency Engineering:** Applying 16-bit environment constraints—such as minimal memory footprints and direct hardware calls—to modern web systems to optimize performance on low-end hardware.
+### Backend, Security & Persistence
+![Python](https://img.shields.io/badge/Python-3.14+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Fernet-47.0-4CAF50?style=for-the-badge&logo=keybase&logoColor=white)
 
----
-
-## Development Environment and AI Workflow
-
-### IDEs and Version Control
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-098677?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### Intelligence and AI Collaboration
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-
----
-
-## Science and Mathematics
-*Bridging the gap between engineering logic and physical world systems.*
-
-* **Urban Hydrology:** Researching the **Sponge City** methodology for urban flood mitigation. Expertise includes groundwater flow physics, dam design parameters, and administrative water protection in India.
-* **Mathematical Foundations:** Mastery of **RD Sharma** methodologies, specializing in structured logic-based proofs, algorithmic arithmetic, and Euclidean geometry.
-* **National Science Talent Searches:** Actively preparing for VVM competitions with a focus on the intersection of ancient Indian scientific contributions and modern technological frameworks.
-* **Virtual Simulations:** Utilizing digital simulation tools to visualize complex physical phenomena and master core scientific concepts.
+### Intelligence Frameworks
+![Gemini](https://img.shields.io/badge/Gemini-3.1_Pro-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-5.2_Pro-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-3.5_Sonnet-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
-## Literary Portfolio and Narrative Design
-*Exploring the intersection of chemistry, coincidence, and character dynamics.*
+## Literary Assets & Narrative Design
 
-* **Fiction Author:** Writing character-driven, slow-burn romance with a focus on intense emotional dynamics and obsessive character tropes.
-* **Manuscript:** *The Time We Met With a Laugh* — A corporate-drama novella studying narrative coincidence and chemistry.
-* **Narrative Strategy:** Integrating storytelling techniques into technical project design to ensure every user interface provides a cohesive, immersive lore.
+### Primary Manuscripts
+* **The Last Signal**
+  > An intensive exploration of narrative tension and signal-based communication, studying the threshold of character limits under high-stakes isolation.
+* **The Time We Met With a Laugh**
+  > A corporate-drama novel analyzing narrative coincidence, workplace chemistry, and the complex mechanics of slow-burn relationship dynamics.
 
----
-
-## Beyond the Screen
-* **Encryption Research:** Exploring novel ways to integrate local, zero-knowledge encryption protocols with daily-use digital tools.
-* **Privacy-by-Design Advocacy:** Researching user data sovereignty as a fundamental requirement for the future of web infrastructure.
-
----
-
-## Technical Sprint Log
-- [ ] Finalize production-grade **Bcrypt** implementation for MindVault sessions.
-- [ ] Refactor PostgreSQL schema to improve query latency by 15% in the Reflections module.
-- [ ] Resolve data sync divergence and upstream conflicts in the Space Missions repository.
-- [ ] Calibrate neon-aesthetic responsiveness for the Phase-Shift engine.
+### Creative Methodology
+* **Character Archetypes:** Specialized in intense emotional dynamics and obsessive character tropes.
+* **UX Immersion:** Applying narrative pacing and slow-burn tension to digital product design.
 
 ---
 
-## Contact and Collaboration
-For technical inquiries, research collaboration, or literary critique:
+## Research & Development
+* **Hydrological Systems:** Researching **Sponge City** methodology, groundwater flow physics, and Indian administrative water protection.
+* **Mathematical Foundation:** Leveraging **RD Sharma** methodologies for algorithmic arithmetic and logic-based proof development.
+* **Legacy Intelligence:** Proficiency in **DOS 6.22** environments; applying 16-bit memory-management constraints to optimize modern systems.
 
-* **Email Primary:** [ayush.sinha.61426@gmail.com](mailto:ayush.sinha.61426@gmail.com)
-* **Email Secondary:** [sinha.ayush.61426@gmail.com](mailto:sinha.ayush.61426@gmail.com)
+---
+
+## Professional Inquiries
+* **Primary Email:** [ayush.sinha.61426@gmail.com](mailto:ayush.sinha.61426@gmail.com)
+* **Secondary Email:** [sinha.ayush.61426@gmail.com](mailto:sinha.ayush.61426@gmail.com)
 * **GitHub Profile:** [@sinhaayush61426-ai](https://github.com/sinhaayush61426-ai)
 
-> **System Philosophy:** `while(alive) { build(); innovate(); write(); }`
+# System Philosophy
+```javascript
+try {
+  while (true) {
+    const soul = new Meaning({ origin: null });
+
+    soul.innovate();
+    soul.create();
+    
+    const success = soul.execute(vision);
+    if (success) legacy.push(vision);
+
+    if (body.entropy > soul.ambition) break;
+  }
+} catch (death) {
+
+} finally {
+  delete self;
+}
+
