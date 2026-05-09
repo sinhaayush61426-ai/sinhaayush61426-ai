@@ -86,7 +86,9 @@
 ## Professional Inquiries
 * **Primary Email:** [ayush.sinha.61426@gmail.com](mailto:ayush.sinha.61426@gmail.com)
 * **Secondary Email:** [sinha.ayush.61426@gmail.com](mailto:sinha.ayush.61426@gmail.com)
-* **GitHub Profile:** [@sinhaayush61426-ai](https://github.com/sinhaayush61426-ai)
+* **Primary GitHub Profile:** [@sinhaayush61426-ai](https://github.com/sinhaayush61426-ai)
+* **Secondary GitHub Profile:** [@Ayush-codeforlife](https://github.com/Ayush-codeforlife)
+
 
 # System Philosophy
 ```javascript
