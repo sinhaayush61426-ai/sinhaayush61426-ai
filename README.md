@@ -10,7 +10,6 @@
 
 ## 2026 Strategic Roadmap
 * **Security Engineering:** Deploying **MindVault**, an emotional reflection engine utilizing client-side symmetric encryption to establish new benchmarks for personal data sovereignty.
-* **Academic Excellence:** Finalizing preparations for the **VVM National Level**, focusing on the administrative frameworks of Indian hydrology and historical scientific paradigms.
 
 ---
 
