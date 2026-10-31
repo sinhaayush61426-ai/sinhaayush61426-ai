@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Ayush Sinha</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=55D6BE&background=0D111700&center=true&vCenter=true&width=620&height=38&lines=PRIVACY-FIRST+SYSTEMS;THOUGHTFUL+PRODUCT+ENGINEERING;CREATIVE+TECHNOLOGY" alt="Privacy-first systems, thoughtful product engineering, creative technology" />
   <p><strong>Systems Architect · Privacy Advocate · Creative Strategist</strong></p>
   <p>Building trustworthy software and clear, human-centered experiences.</p>
   <img src="https://img.shields.io/badge/FOCUS-MINDVAULT-111820?style=flat-square&labelColor=111820&color=55D6BE" alt="Focus: MindVault" />
@@ -15,6 +16,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sinhaayush61426-ai/mindvault">MindVault ↗</a></h3>
+      <a href="https://github.com/sinhaayush61426-ai/mindvault"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=900&color=55D6BE&background=0D111700&width=400&height=32&lines=PRIVATE+JOURNALING;PRIVACY+BY+DESIGN;YOUR+THOUGHTS%2C+YOURS" alt="MindVault: private journaling, privacy by design" /></a>
       <p><strong>Private reflection, built around user trust.</strong></p>
       <p>A private writing workspace built with Django and SQLite, with server-side encryption for journal entries.</p>
       <p>
@@ -25,6 +27,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sinhaayush61426-ai/space_missions">Space Missions ↗</a></h3>
+      <a href="https://github.com/sinhaayush61426-ai/space_missions"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=900&color=7DD3FC&background=0D111700&width=400&height=32&lines=EXPLORE+THE+SOLAR+SYSTEM;MISSION+TELEMETRY;SPACE%2C+MADE+VISIBLE" alt="Space Missions: explore the solar system, mission telemetry" /></a>
       <p><strong>Mission telemetry made easier to read.</strong></p>
       <p>A data visualization project focused on mission tracking, telemetry dashboards, and presenting operational information clearly.</p>
       <p>
