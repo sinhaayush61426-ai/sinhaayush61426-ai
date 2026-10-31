@@ -18,7 +18,7 @@
       <h3><a href="https://github.com/sinhaayush61426-ai/mindvault">MindVault ↗</a></h3>
       <a href="https://github.com/sinhaayush61426-ai/mindvault"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=900&color=55D6BE&background=0D111700&width=400&height=32&lines=PRIVATE+JOURNALING;PRIVACY+BY+DESIGN;YOUR+THOUGHTS%2C+YOURS" alt="MindVault: private journaling, privacy by design" /></a>
       <p><strong>Private reflection, built around user trust.</strong></p>
-      <p>A private writing workspace built with Django and SQLite, with server-side encryption for journal entries.</p>
+      <p>A private writing workspace with server-side encryption for journal entries.</p>
       <p>
         <img src="https://img.shields.io/badge/DJANGO-111820?style=flat-square&logo=django&logoColor=55D6BE" alt="Django" />
         <img src="https://img.shields.io/badge/PYTHON-111820?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
@@ -71,47 +71,37 @@
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111820?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-111820?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111820?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML-111820?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-111820?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-3.x-111820?style=flat-square&logo=python&logoColor=FFD43B" alt="Python 3, minor version not pinned" />
+  <img src="https://img.shields.io/badge/JavaScript-ES_modules-111820?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript, ES modules" />
+  <img src="https://img.shields.io/badge/TypeScript-%5E5.8.3-111820?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript ^5.8.3" />
+  <img src="https://img.shields.io/badge/HTML-5-111820?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-3-111820?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
-
-| Language | Version / standard | Repository use |
-| --- | --- | --- |
-| Python | Python 3; minor version not pinned | MindVault, Python notebooks |
-| JavaScript | ES modules; language version not pinned | MindVault browser scripts, Space Missions tooling |
-| TypeScript | `^5.8.3` | Space Missions application |
-| HTML | HTML5 | MindVault, Space Missions |
-| CSS | CSS3 | MindVault, Space Missions |
 
 ### Frontend
 
-| Technology | Version declared in Space Missions | Usage |
-| --- | --- | --- |
-| React | `^18.3.1` | UI and interactive application views |
-| TypeScript | `^5.8.3` | Typed frontend application code |
-| Vite | `^5.4.21` | Development server and production builds |
-| Tailwind CSS | `^3.4.17` | Utility-first styling |
-| Three.js | `^0.160.1` | 3D solar system visuals |
+<p>
+  <img src="https://img.shields.io/badge/React-%5E18.3.1-111820?style=flat-square&logo=react&logoColor=61DAFB" alt="React ^18.3.1" />
+  <img src="https://img.shields.io/badge/Vite-%5E5.4.21-111820?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite ^5.4.21" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%5E3.4.17-111820?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS ^3.4.17" />
+  <img src="https://img.shields.io/badge/Three.js-%5E0.160.1-111820?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js ^0.160.1" />
+</p>
 
-### Django
+### Backend
 
-**Django `>=5.2,<6.0`** powers MindVault's web application, including authentication, routes, server-rendered pages, database models, and migrations.
-
-### Flask
-
-**Flask 3.0** for lightweight Python web applications and API development.
+<p>
+  <img src="https://img.shields.io/badge/Django-%3E%3D5.2%2C_%3C6.0-111820?style=flat-square&logo=django&logoColor=55D6BE" alt="Django >=5.2, <6.0" />
+  <img src="https://img.shields.io/badge/Flask-3.0-111820?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask 3.0" />
+</p>
 
 ### Data & Security
 
-| Technology | Version declared in MindVault | Usage |
-| --- | --- | --- |
-| SQLite | 3 | Application persistence |
-| bcrypt | `>=4.2,<6.0` | Password hash handling |
-| cryptography | `>=44,<47` | Fernet encryption for entry content |
-| python-dotenv | `>=1.0,<2.0` | Local environment configuration |
+<p>
+  <img src="https://img.shields.io/badge/SQLite-3-111820?style=flat-square&logo=sqlite&logoColor=7DD3FC" alt="SQLite 3" />
+  <img src="https://img.shields.io/badge/bcrypt-%3E%3D4.2%2C_%3C6.0-111820?style=flat-square" alt="bcrypt >=4.2, <6.0" />
+  <img src="https://img.shields.io/badge/cryptography-%3E%3D44%2C_%3C47-111820?style=flat-square" alt="cryptography >=44, <47" />
+  <img src="https://img.shields.io/badge/python--dotenv-1.0-111820?style=flat-square&logo=python&logoColor=FFD43B" alt="python-dotenv 1.0" />
+</p>
 
 ---
 
