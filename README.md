@@ -1,13 +1,10 @@
-# Ayush Sinha
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=7DD3FC&background=0D111700&center=true&vCenter=true&width=620&height=38&lines=PRIVACY-FIRST+SYSTEMS;THOUGHTFUL+PRODUCT+ENGINEERING;CREATIVE+TECHNOLOGY" alt="Privacy-first systems, thoughtful product engineering, creative technology" />
-  <br />
+  <h1>Ayush Sinha</h1>
+  <p><strong>Systems Architect · Privacy Advocate · Creative Strategist</strong></p>
+  <p>Building trustworthy software and clear, human-centered experiences.</p>
   <img src="https://img.shields.io/badge/FOCUS-MINDVAULT-111820?style=flat-square&labelColor=111820&color=55D6BE" alt="Focus: MindVault" />
   <img src="https://img.shields.io/badge/PRINCIPLE-PRIVACY_BY_DESIGN-111820?style=flat-square&labelColor=111820&color=7DD3FC" alt="Principle: privacy by design" />
   <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-111820?style=flat-square&labelColor=111820&color=F4C95D" alt="Environment: Linux" />
-  <p><strong>Systems Architect · Privacy Advocate · Creative Strategist</strong></p>
-  <p>Building trustworthy software and clear, human-centered experiences.</p>
 </div>
 
 ---
@@ -41,18 +38,18 @@
 
 ---
 
-## All Repositories
+## Repositories
 
-| Repository | Profile |
-| --- | --- |
-| [MindVault](https://github.com/sinhaayush61426-ai/mindvault) | Primary |
-| [Space Missions](https://github.com/sinhaayush61426-ai/space_missions) | Primary |
-| [manim_webplay](https://github.com/sinhaayush61426-ai/manim_webplay) | Primary |
-| [improvements](https://github.com/sinhaayush61426-ai/improvements) | Primary |
-| [project-template](https://github.com/sinhaayush61426-ai/project-template) | Primary |
-| [python-notebooks](https://github.com/sinhaayush61426-ai/python-notebooks) | Primary |
-| [Profile README](https://github.com/sinhaayush61426-ai/sinhaayush61426-ai) | Primary |
-| [Ayush-codeforlife profile](https://github.com/Ayush-codeforlife/Ayush-codeforlife) | Alternate |
+<p>
+  <a href="https://github.com/sinhaayush61426-ai/mindvault"><img src="https://img.shields.io/badge/MindVault-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="MindVault repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/space_missions"><img src="https://img.shields.io/badge/Space_Missions-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="Space Missions repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/manim_webplay"><img src="https://img.shields.io/badge/manim__webplay-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="manim_webplay repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/improvements"><img src="https://img.shields.io/badge/improvements-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="improvements repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/project-template"><img src="https://img.shields.io/badge/project--template-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="project-template repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/python-notebooks"><img src="https://img.shields.io/badge/python--notebooks-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="python-notebooks repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/sinhaayush61426-ai"><img src="https://img.shields.io/badge/Profile_README-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="Profile README repository" /></a>
+  <a href="https://github.com/Ayush-codeforlife/Ayush-codeforlife"><img src="https://img.shields.io/badge/Ayush--codeforlife-111820?style=flat-square&logo=github&logoColor=7DD3FC" alt="Ayush-codeforlife profile repository" /></a>
+</p>
 
 ---
 
@@ -66,9 +63,17 @@
 
 ---
 
-## Languages & Frameworks
+## Technology
 
 ### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111820?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-111820?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111820?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML-111820?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-111820?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
+</p>
 
 | Language | Version / standard | Repository use |
 | --- | --- | --- |
@@ -139,4 +144,3 @@ function buildWithPurpose(idea) {
 ## Connect
 
 [Email](mailto:ayush.sinha.61426@gmail.com) · [GitHub](https://github.com/sinhaayush61426-ai) · [Alternate profile](https://github.com/Ayush-codeforlife)
-
