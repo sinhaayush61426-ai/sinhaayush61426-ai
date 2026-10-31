@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Ayush Sinha</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=55D6BE&background=0D111700&center=true&vCenter=true&width=620&height=38&lines=PRIVACY-FIRST+SYSTEMS;THOUGHTFUL+PRODUCT+ENGINEERING;CREATIVE+TECHNOLOGY" alt="Privacy-first systems, thoughtful product engineering, creative technology" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=55D6BE&background=0D111700&center=true&vCenter=true&width=620&height=38&lines=PRIVACY-FIRST+SYSTEMS;BUILDING+MINDVAULT;EXPLORING+SPACE+MISSIONS;THOUGHTFUL+PRODUCT+ENGINEERING" alt="Privacy-first systems, building MindVault, exploring Space Missions, thoughtful product engineering" />
   <p><strong>Systems Architect · Privacy Advocate · Creative Strategist</strong></p>
   <p>Building trustworthy software and clear, human-centered experiences.</p>
-  <img src="https://img.shields.io/badge/FOCUS-MINDVAULT-111820?style=flat-square&labelColor=111820&color=55D6BE" alt="Focus: MindVault" />
-  <img src="https://img.shields.io/badge/PRINCIPLE-PRIVACY_BY_DESIGN-111820?style=flat-square&labelColor=111820&color=7DD3FC" alt="Principle: privacy by design" />
-  <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-111820?style=flat-square&labelColor=111820&color=F4C95D" alt="Environment: Linux" />
+  <img src="https://img.shields.io/badge/FOCUS-MINDVAULT-0D9488?style=flat-square&labelColor=134E4A" alt="Focus: MindVault" />
+  <img src="https://img.shields.io/badge/PRINCIPLE-PRIVACY_BY_DESIGN-2563EB?style=flat-square&labelColor=1E3A8A" alt="Principle: privacy by design" />
+  <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-D97706?style=flat-square&labelColor=78350F" alt="Environment: Linux" />
 </div>
 
 ---
@@ -20,9 +20,10 @@
       <p><strong>Private reflection, built around user trust.</strong></p>
       <p>A private writing workspace with server-side encryption for journal entries.</p>
       <p>
-        <img src="https://img.shields.io/badge/DJANGO-111820?style=flat-square&logo=django&logoColor=55D6BE" alt="Django" />
-        <img src="https://img.shields.io/badge/PYTHON-111820?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
-        <img src="https://img.shields.io/badge/SQLITE-111820?style=flat-square&logo=sqlite&logoColor=7DD3FC" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=FFFFFF" alt="Django" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=FFFFFF" alt="SQLite" />
+        <img src="https://img.shields.io/badge/Cryptography-2D5A27?style=flat-square&logo=letsencrypt&logoColor=FFFFFF" alt="Cryptography" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -31,9 +32,12 @@
       <p><strong>Mission telemetry made easier to read.</strong></p>
       <p>A data visualization project focused on mission tracking, telemetry dashboards, and presenting operational information clearly.</p>
       <p>
-        <img src="https://img.shields.io/badge/CHART.JS-111820?style=flat-square&logo=chartdotjs&logoColor=FF6384" alt="Chart.js" />
-        <img src="https://img.shields.io/badge/DATA_VIZ-111820?style=flat-square&logo=chartdotjs&logoColor=55D6BE" alt="Data visualization" />
-        <img src="https://img.shields.io/badge/GITHUB-111820?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=FFFFFF" alt="Chart.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111820" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFFFFF" alt="Vite" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
       </p>
     </td>
   </tr>
@@ -44,14 +48,14 @@
 ## Repositories
 
 <p>
-  <a href="https://github.com/sinhaayush61426-ai/mindvault"><img src="https://img.shields.io/badge/MindVault-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="MindVault repository" /></a>
-  <a href="https://github.com/sinhaayush61426-ai/space_missions"><img src="https://img.shields.io/badge/Space_Missions-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="Space Missions repository" /></a>
-  <a href="https://github.com/sinhaayush61426-ai/manim_webplay"><img src="https://img.shields.io/badge/manim__webplay-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="manim_webplay repository" /></a>
-  <a href="https://github.com/sinhaayush61426-ai/improvements"><img src="https://img.shields.io/badge/improvements-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="improvements repository" /></a>
-  <a href="https://github.com/sinhaayush61426-ai/project-template"><img src="https://img.shields.io/badge/project--template-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="project-template repository" /></a>
-  <a href="https://github.com/sinhaayush61426-ai/python-notebooks"><img src="https://img.shields.io/badge/python--notebooks-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="python-notebooks repository" /></a>
-  <a href="https://github.com/sinhaayush61426-ai/sinhaayush61426-ai"><img src="https://img.shields.io/badge/Profile_README-111820?style=flat-square&logo=github&logoColor=55D6BE" alt="Profile README repository" /></a>
-  <a href="https://github.com/Ayush-codeforlife/Ayush-codeforlife"><img src="https://img.shields.io/badge/Ayush--codeforlife-111820?style=flat-square&logo=github&logoColor=7DD3FC" alt="Ayush-codeforlife profile repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/mindvault"><img src="https://img.shields.io/badge/MindVault-0D9488?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="MindVault repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/space_missions"><img src="https://img.shields.io/badge/Space_Missions-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Space Missions repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/manim_webplay"><img src="https://img.shields.io/badge/manim__webplay-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="manim_webplay repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/improvements"><img src="https://img.shields.io/badge/improvements-D97706?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="improvements repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/project-template"><img src="https://img.shields.io/badge/project--template-475569?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="project-template repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/python-notebooks"><img src="https://img.shields.io/badge/python--notebooks-306998?style=for-the-badge&logo=github&logoColor=FFD43B" alt="python-notebooks repository" /></a>
+  <a href="https://github.com/sinhaayush61426-ai/sinhaayush61426-ai"><img src="https://img.shields.io/badge/Profile_README-DB2777?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Profile README repository" /></a>
+  <a href="https://github.com/Ayush-codeforlife/Ayush-codeforlife"><img src="https://img.shields.io/badge/Ayush--codeforlife-0891B2?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ayush-codeforlife profile repository" /></a>
 </p>
 
 ---
@@ -60,7 +64,7 @@
 
 <div align="center">
   <a href="https://github.com/sinhaayush61426-ai">
-    <img src="https://ghchart.rshah.org/55d6be/sinhaayush61426-ai" alt="GitHub contribution activity calendar for Ayush Sinha" width="100%" />
+    <img src="https://ghchart.rshah.org/164e63/sinhaayush61426-ai" alt="GitHub contribution activity calendar for Ayush Sinha" width="100%" />
   </a>
 </div>
 
@@ -71,36 +75,46 @@
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3.x-111820?style=flat-square&logo=python&logoColor=FFD43B" alt="Python 3, minor version not pinned" />
-  <img src="https://img.shields.io/badge/JavaScript-ES_modules-111820?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript, ES modules" />
-  <img src="https://img.shields.io/badge/TypeScript-%5E5.8.3-111820?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript ^5.8.3" />
-  <img src="https://img.shields.io/badge/HTML-5-111820?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-3-111820?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python 3" />
+  <img src="https://img.shields.io/badge/JavaScript-ES_Modules-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111820" alt="JavaScript ES modules" />
+  <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript 5.8" />
+  <img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/React-%5E18.3.1-111820?style=flat-square&logo=react&logoColor=61DAFB" alt="React ^18.3.1" />
-  <img src="https://img.shields.io/badge/Vite-%5E5.4.21-111820?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite ^5.4.21" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%5E3.4.17-111820?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS ^3.4.17" />
-  <img src="https://img.shields.io/badge/Three.js-%5E0.160.1-111820?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js ^0.160.1" />
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=111820" alt="React 18" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=FFFFFF" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF" alt="Vite 5" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS 3" />
+  <img src="https://img.shields.io/badge/Three.js-0.160-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" alt="Three.js 0.160" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Django-%3E%3D5.2%2C_%3C6.0-111820?style=flat-square&logo=django&logoColor=55D6BE" alt="Django >=5.2, <6.0" />
-  <img src="https://img.shields.io/badge/Flask-3.0-111820?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask 3.0" />
+  <img src="https://img.shields.io/badge/Django-5.2%2B-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF" alt="Django 5.2+" />
+  <img src="https://img.shields.io/badge/Flask-3-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask 3" />
 </p>
 
 ### Data & Security
 
 <p>
-  <img src="https://img.shields.io/badge/SQLite-3-111820?style=flat-square&logo=sqlite&logoColor=7DD3FC" alt="SQLite 3" />
-  <img src="https://img.shields.io/badge/bcrypt-%3E%3D4.2%2C_%3C6.0-111820?style=flat-square" alt="bcrypt >=4.2, <6.0" />
-  <img src="https://img.shields.io/badge/cryptography-%3E%3D44%2C_%3C47-111820?style=flat-square" alt="cryptography >=44, <47" />
-  <img src="https://img.shields.io/badge/python--dotenv-1.0-111820?style=flat-square&logo=python&logoColor=FFD43B" alt="python-dotenv 1.0" />
+  <img src="https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQLite 3" />
+  <img src="https://img.shields.io/badge/bcrypt-4.2%2B-4B8BBE?style=for-the-badge" alt="bcrypt 4.2+" />
+  <img src="https://img.shields.io/badge/cryptography-44%2B-2D5A27?style=for-the-badge" alt="cryptography 44+" />
+  <img src="https://img.shields.io/badge/python--dotenv-1-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="python-dotenv 1" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111820" alt="Linux" />
 </p>
 
 ---
